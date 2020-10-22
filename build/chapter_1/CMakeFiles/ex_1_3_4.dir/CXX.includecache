@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../chapter_1/Node.hpp
+
+../chapter_1/Stack.hpp
+Node.hpp
+../chapter_1/Node.hpp
+
+/home/cn/learn/Algorithms-Fourth-Edition-Cpp/chapter_1/exercise/ex_1_3_4.cpp
+iostream
+-
+string
+-
+Stack.hpp
+/home/cn/learn/Algorithms-Fourth-Edition-Cpp/chapter_1/exercise/Stack.hpp
+
