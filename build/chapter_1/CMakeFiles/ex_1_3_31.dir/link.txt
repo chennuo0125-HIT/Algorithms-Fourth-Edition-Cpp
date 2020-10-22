@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/ex_1_3_31.dir/exercise/ex_1_3_31.cpp.o  -o ../../bin/ex_1_3_31  -L/home/cn/learn/Algorithms-Fourth-Edition-Cpp/lib -rdynamic 
