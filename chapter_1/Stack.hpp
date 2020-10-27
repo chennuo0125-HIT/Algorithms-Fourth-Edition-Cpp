@@ -44,6 +44,8 @@ public:
         N--;
 
         T result = pop_first->item;
+        delete pop_first;
+        pop_first = NULL;
 
         return result;
     }

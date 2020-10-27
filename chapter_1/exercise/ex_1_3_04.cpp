@@ -1,3 +1,10 @@
+/**********************
+ * 
+ * Judge whether is balanced of string with bracket
+ * (Exercise 1.3.4)
+ * 
+ **********************/
+
 #include <iostream>
 #include <string>
 #include "Stack.hpp"

@@ -1,3 +1,10 @@
+/**********************
+ * 
+ * Realization of bidirectional linked list
+ * (Exercise 1.3.31)
+ * 
+ **********************/
+
 #include <iostream>
 
 template <typename T>
