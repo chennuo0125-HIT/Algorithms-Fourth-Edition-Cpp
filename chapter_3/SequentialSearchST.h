@@ -1,6 +1,9 @@
 #include <string>
 #include <vector>
 
+namespace sequential_search
+{
+
 // 链表节点
 struct Node
 {
@@ -91,3 +94,5 @@ private:
     int size_;                      //键数
     std::vector<std::string> keys_; //键值集合
 };
+
+} // namespace sequential_search
